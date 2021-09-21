@@ -1,0 +1,8 @@
+
+Install-WindowsFeature -Name DHCP -IncludeManagementTools -Restart
+
+Install-WindowsFeature -Name DNS -IncludeManagementTools -Restart
+
+Install-WindowsFeature -Name AD-Domain-Services -IncludeManagementTools -Restart
+
+Install-WindowsFeature -Name Web-Server -IncludeManagementTools -IncludeWindowsFeature -Name Web-Http-Redirect -Restart
