@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HilkoCFisi
-- 👀 I’m interested in Python, Java, C, C++, Networking, VLAN, SQL, PHP, HTML, CSS, JavaScript, Powershell
-- 🌱 I’m currently learning Networking, VLAN, SQL
+- 👀 I’m interested in C# Networking, VLAN, SQL, HTML, CSS, JavaScript
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on: Let's see
-- 📫 How to reach me: DM (if possible here ^^ just Joined GitHub :D)
+- 📫 How to reach me:
 - Respect, Peace ...and justice for all ✌️
 <!---
 HilkoCFisi/HilkoCFisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
